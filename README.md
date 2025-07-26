@@ -52,7 +52,7 @@ Create a Power BI dashboard using cleaned retail sales data to visualize and fil
 
 ## 📊 Dataset Source
 
-[Supermarket Sales – Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
+[Retail Store Inventory Forecasting Dataset – Kaggle](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset)
 
 ---
 
