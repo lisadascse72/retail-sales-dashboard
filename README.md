@@ -46,7 +46,8 @@ Create a Power BI dashboard using cleaned retail sales data to visualize and fil
 
 ## 📈 Dashboard Preview
 
-> *(Add your Power BI screenshot or a link to the dashboard image here)*
+> *(<img width="1399" height="809" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/7ff8e835-d2d9-4511-89a7-a57177c5c6b8" />
+)*
 
 ---
 
